@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mr_alexandruion@icloud.com**
 
-- 📄 Know about my experiences [https://www.ialexandru.eu/AlexandruIon_CV.pdf](https://www.ialexandru.eu/AlexandruIon_CV.pdf)
+- 📄 Know about my experiences [Alexandru](https://www.ialexandru.eu/AlexandruIon_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
