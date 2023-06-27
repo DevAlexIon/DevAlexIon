@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexandru Ion</h1>
 <h3 align="center">A highly innovative and adaptable Frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.ialexandru.eu/](https://www.ialexandru.eu/)
+- 👨‍💻 All of my projects are available at **[https://www.ialexandru.eu/](https://www.ialexandru.eu/)**
 
 - 📫 How to reach me **mr_alexandruion@icloud.com**
 
-- 📄 Know about my experiences [Alexandru](https://www.ialexandru.eu/AlexandruIon_CV.pdf)
+- 📄 Know about my experiences **[Resume](https://www.ialexandru.eu/AlexandruIon_CV.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
