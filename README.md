@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandru Ion</h1>
 <h3 align="center">A highly innovative and adaptable Frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at **[https://www.ialexandru.eu/](https://www.ialexandru.eu/)**
+- 👨‍💻 All of my projects are available at **[https://www.ialexandru.eu/](https://portfolio-seven-tawny-43.vercel.app/)**
 
 - 📫 How to reach me **mr_alexandruion@icloud.com**
 
