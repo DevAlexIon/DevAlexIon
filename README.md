@@ -1,18 +1,74 @@
-<h1 align="center">Hi 👋, I'm Alexandru Ion</h1>
-<h3 align="center">A highly innovative and adaptable Frontend developer</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at **[https://www.ialexandru.eu/](https://portfolio-seven-tawny-43.vercel.app/)**
+# Hi, I'm Alexandru Ion
 
-- 📫 How to reach me **mr_alexandruion@icloud.com**
+### Frontend Engineer
 
-- 📄 Know about my experiences **[Resume](https://www.ialexandru.eu/AlexandruIon_CV.pdf)**
+Building performant, scalable React applications with TypeScript.  
+Focused on clean architecture, usability, and continuous learning.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devalexion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devalexion" height="30" width="40" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--wvvx.onrender.com-2EC4B6?style=flat-square&logo=render&logoColor=white)](https://portfolio-wvvx.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devalexion-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devalexion/)
+[![Email](https://img.shields.io/badge/Email-mr__alexandruion%40icloud.com-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:mr_alexandruion@icloud.com)
+[![CV](https://img.shields.io/badge/Download-CV-111111?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://portfolio-wvvx.onrender.com/Alexandru_Ion_CV.pdf)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devalexion&show_icons=true&locale=en&layout=compact" alt="devalexion" /></p>
+---
+
+### About
+
+- Frontend engineer based in **Bucharest, Romania**
+- Shipping production React / TypeScript interfaces used by real teams
+- Experience across web products, reusable UI systems, and full-stack features
+- Currently open to interesting frontend / product engineering work
+
+### What I work with
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Backend & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+### Featured
+
+| Project | Description |
+| --- | --- |
+| [Portfolio](https://github.com/DevAlexIon/Portfolio) | Personal site — React 19, Vite, Tailwind, GSAP · [Live](https://portfolio-wvvx.onrender.com/) |
+| [UseRepurposer](https://github.com/DevAlexIon) | AI content repurposing product (featured on portfolio) |
+
+### GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevAlexIon&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=C9D1D9" alt="DevAlexIon GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexIon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EC4B6&text_color=C9D1D9" alt="DevAlexIon top languages" />
+</div>
+
+---
+
+<div align="center">
+
+[Portfolio](https://portfolio-wvvx.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/devalexion/) · [Email](mailto:mr_alexandruion@icloud.com)
+
+</div>
