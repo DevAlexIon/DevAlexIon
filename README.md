@@ -56,7 +56,7 @@ Focused on clean architecture, usability, and continuous learning.
 | Project | Description |
 | --- | --- |
 | [Portfolio](https://github.com/DevAlexIon/Portfolio) | Personal site — React 19, Vite, Tailwind, GSAP · [Live](https://portfolio-wvvx.onrender.com/) |
-| [UseRepurposer](https://github.com/DevAlexIon) | AI content repurposing product (featured on portfolio) |
+| [UseRepurposer](https://userepurposer.com) | AI content repurposing product (featured on portfolio) |
 
 ### GitHub stats
 
