@@ -55,9 +55,9 @@ Focused on clean architecture, usability, and continuous learning.
 
 | Project | Description |
 | --- | --- |
+| [UseRepurposer](https://userepurposer.com) | AI content repurposing product · [Live](https://userepurposer.com) |
+| [Ledger](https://expense-web-app-a1h2.onrender.com) | Expense tracker with dashboard, reports, and auth · [Live](https://expense-web-app-a1h2.onrender.com) · [Frontend](https://github.com/DevAlexIon/expense-web-app) · [API](https://github.com/DevAlexIon/expense-app) |
 | [Portfolio](https://github.com/DevAlexIon/Portfolio) | Personal site, React 19, Vite, Tailwind, GSAP · [Live](https://portfolio-wvvx.onrender.com/) |
-| [Ledger](https://expense-web-app-a1h2.onrender.com) | Expense tracker with dashboard, reports, and auth · [Frontend](https://github.com/DevAlexIon/expense-web-app) · [API](https://github.com/DevAlexIon/expense-app) |
-| [UseRepurposer](https://userepurposer.com) | AI content repurposing product (featured on portfolio) |
 
 ### Languages
 
