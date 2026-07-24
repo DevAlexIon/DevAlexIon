@@ -61,8 +61,8 @@ Focused on clean architecture, usability, and continuous learning.
 ### GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevAlexIon&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=C9D1D9" alt="DevAlexIon GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexIon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EC4B6&text_color=C9D1D9" alt="DevAlexIon top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=DevAlexIon&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=C9D1D9" alt="DevAlexIon GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DevAlexIon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EC4B6&text_color=C9D1D9" alt="DevAlexIon top languages" />
 </div>
 
 ---
