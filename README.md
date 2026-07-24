@@ -58,11 +58,10 @@ Focused on clean architecture, usability, and continuous learning.
 | [Portfolio](https://github.com/DevAlexIon/Portfolio) | Personal site — React 19, Vite, Tailwind, GSAP · [Live](https://portfolio-wvvx.onrender.com/) |
 | [UseRepurposer](https://userepurposer.com) | AI content repurposing product (featured on portfolio) |
 
-### GitHub stats
+### Languages
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=DevAlexIon&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=C9D1D9" alt="DevAlexIon GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DevAlexIon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EC4B6&text_color=C9D1D9" alt="DevAlexIon top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DevAlexIon&layout=compact&hide_title=false&hide_border=false&card_width=440&bg_color=F8FFFE&title_color=0F766E&text_color=334155&border_color=99F6E4" alt="Most used languages" />
 </div>
 
 ---
