@@ -10,7 +10,7 @@ Focused on clean architecture, usability, and continuous learning.
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--wvvx.onrender.com-2EC4B6?style=flat-square&logo=render&logoColor=white)](https://portfolio-wvvx.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devalexion-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devalexion/)
 [![Email](https://img.shields.io/badge/Email-mr__alexandruion%40icloud.com-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:mr_alexandruion@icloud.com)
-[![CV](https://img.shields.io/badge/Download-CV-111111?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://portfolio-wvvx.onrender.com/Alexandru_Ion_CV.pdf)
+[![CV](https://img.shields.io/badge/Download-CV-111111?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://portfolio-wvvx.onrender.com/Alexandru_Ion_Software_Engineer_2026_Resume.pdf)
 
 </div>
 
